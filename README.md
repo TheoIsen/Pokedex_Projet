@@ -27,8 +27,5 @@ Ce projet vise à entraîner un modèle de reconnaissance et détection de Poké
 
 ## Installation et utilisation
 
-### Cloner le repository
-
-```bash
-git clone https://github.com/TheoIsen/Pokedex_Projet.git
-cd Pokedex_Projet
+###Lien du Google Colab
+https://colab.research.google.com/drive/1a7PSWmxy-uub43iTM6LyTtMEvAhYgoSb?usp=sharing
